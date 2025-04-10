@@ -1,4 +1,4 @@
-# FallingLetters
+
 # FallingLetters
 
 FallingLetters is a typing game developed in Java where letters descend from the top of the screen, and the player must type the corresponding letters to prevent them from reaching the bottom.
